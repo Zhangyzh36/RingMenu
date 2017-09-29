@@ -68,14 +68,14 @@ ul {
     width: 16%;
     height: 16%;
     opacity: 1;
-    font-size: 17px;
+    font-size: 1.5vw;
     font-weight: bold;
     color: white;
 }
 
 #button:hover .comment img {
     position: absolute;
-    left: 24%;
+    left: 25%;
     bottom: 46%;
     width: 19%;
     height: 19%;
@@ -90,7 +90,7 @@ ul {
     width: 19%;
     height: 19%;
     opacity: 1;
-    font-size: 30px;
+    font-size: 2.7vw;
     font-weight: bold;
     color: white;
 
@@ -113,7 +113,7 @@ ul {
     width: 16%;
     height: 16%;
     opacity: 1;
-    font-size: 17px;
+    font-size: 1.5vw;
     font-weight: bold;
     color: #079E6E;
 }
@@ -135,7 +135,7 @@ ul {
     width: 16%;
     height: 16%;
     opacity: 1;
-    font-size: 17px;
+    font-size: 1.5vw;
     font-weight: bold;
     color: #079E6E;
 }
@@ -193,14 +193,14 @@ ul {
 .unread {
     display: inline-block;
     background-color: #FF5151;
-    font-size: 2px;
+    font-size: 1vw;
     position: absolute;
     left: 65%;
     bottom: 58%;
     border-radius: 50%;
-    width: 16px;
-    height: 16px; 
-    line-height: 16px;
+    width: 1.5vw;
+    height: 1.5vw; 
+    line-height: 1.5vw;
     text-align: center;
     transition: all 0.5s ease-out 0.3s;
     color: white;
